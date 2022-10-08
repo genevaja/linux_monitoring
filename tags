@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+check_arg	src/05/check_arg.sh	/^function check_arg {$/;"	f
+color_scheme	src/04/color_scheme.sh	/^function color_scheme {$/;"	f
+default_color	src/04/color_setting.sh	/^function default_color {$/;"	f
+getting_presets2	src/04/getting_presets.sh	/^function getting_presets2 {$/;"	f
+print_output	src/05/print_output.sh	/^function print_output {$/;"	f
+top_five_output	src/05/top_five_output.sh	/^function top_five_output {$/;"	f
+top_ten_exe_output	src/05/top_ten_exe_output.sh	/^function top_ten_exe_output {$/;"	f
+top_ten_output	src/05/top_ten_output.sh	/^function top_ten_output {$/;"	f
